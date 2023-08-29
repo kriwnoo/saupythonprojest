@@ -1,0 +1,12 @@
+ #เชื่อม/ต่อ/รวม ประเภทเข้าด้วยกัน
+#ใช้ ,
+score = 500
+print('hello...',20,True,65465.5561,65/4,"hi...",score)
+#ใช้ +
+print("้hallo...."+str(20)+str(True)+str(854.51)+str(54/52)+"hi.."+str(score))
+#ใช้ เมธอด format
+print ("hello.. {} {} {} {} hi....{}" .format(20,True,645/654/64,score))
+#ใช้ rf- string
+print(f"hell... {20} {True} {6.541} {54/5} hi..{score}")
+#ใช้ modular operator %
+print('hello...%d %f %g hi...' % (20,54.2, "sau"))

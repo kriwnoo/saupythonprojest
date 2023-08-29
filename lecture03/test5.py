@@ -1,0 +1,6 @@
+ctemp = int(input('intsert celcius temperature : '))
+fsolve = str(9/5 *(ctemp +32))
+print('the temperature in fahernheit unit is:',fsolve,'f')
+print('the temperature in fahernheit unit is:'+fsolve+'f')
+print('the temperature in fahernheit unit is {} f'.format(fsolve))
+print(f'the temperature in fahernheit unit is:{fsolve} f')
