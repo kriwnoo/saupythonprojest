@@ -1,0 +1,1 @@
+#function แบบที่3 - Have parameter/no return
